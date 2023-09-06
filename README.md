@@ -26,10 +26,10 @@ I'm a dedicated student currently pursuing a degree in Applied Computer Science 
 - 📺 When I unwind, you'll find me binge-watching series 📺 and enjoying some good music 🎵.
 
 🤝 **Looking to Collaborate:**
-- 👥 I'm interested in collaborating on open-source projects related to [Database].
+- 👥 I'm interested in collaborating on open-source projects related to Database.
 - 📚 I'm open to mentoring and sharing my experience with fellow students and aspiring tech enthusiasts.
 
 📈 **GitHub Stats:**
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[JyothiDronamraju]&show_icons=true&count_private=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyothiDronamraju&show_icons=true&count_private=true)
 
 Thanks for stopping by! Let's connect, code, and learn together. Feel free to explore my repositories and reach out for collaboration or a chat about our shared interests. 😊
