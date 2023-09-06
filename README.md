@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### Hi there, I'm [Your Name]! 👋
+### Hi there, I'm [Jyothi]! 👋
 
 I'm a dedicated student currently pursuing a degree in Applied Computer Science 🎓, and I bring with me over 5 years of valuable experience from my time at Amazon 📦. By day, I'm a student, and by night, I'm a multitasking mom 🧑‍👧 with a relentless passion for learning new things 🧠.
 
