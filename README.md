@@ -17,8 +17,8 @@ I'm a dedicated student currently pursuing a degree in Applied Computer Science 
 
 🌍 **Connect with Me:**
 - 📫 You can reach me via email at jyothi.dronam@gmail.com.
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile (https://www.linkedin.com/in/jyothi-dronamraju-5b3101200/) for professional networking.
-- 🌐 Check out my instagram profile at (https://www.instagram.com/jyothi_dronamraju/)
+- 💬 Let's connect on LinkedIn https://www.linkedin.com/in/jyothi-dronamraju-5b3101200/ for professional networking.
+- 🌐 Check out my instagram profile at https://www.instagram.com/jyothi_dronamraju/
 
 🌟 **Fun Facts:**
 - 🍳 I'm a culinary enthusiast who loves experimenting in the kitchen and trying new recipes.
