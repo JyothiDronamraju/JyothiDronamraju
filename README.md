@@ -35,4 +35,6 @@ I'm a dedicated student currently pursuing a degree in Applied Computer Science 
 
 
 
+
+
 Thanks for stopping by! Let's connect, code, and learn together. Feel free to explore my repositories and reach out for collaboration or a chat about our shared interests. 😊
